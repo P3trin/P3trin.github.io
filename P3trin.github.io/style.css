@@ -1,0 +1,67 @@
+.HTML {
+    background-image: url(Imagens/12\ Sem\ Título_20240822143706.png);
+}
+
+.Petrin_Título {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30rem;
+    height: auto;
+}
+
+.Petrin_Título_set {
+flex: 1;
+justify-content: center;
+display:flex
+}
+
+.PAI {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+
+.Links_ {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+}
+
+.Atividades_Button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10rem;
+    height: auto;
+    transition: 0.3s;
+}
+
+.Atividades_Button:hover {
+    width: 10.5rem;
+}
+
+.Atividades_Button_set {
+    flex: 1;
+    justify-content: center;
+    display: flex;
+}
+
+.FNAF_Button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10rem;
+    height: auto;
+    transition: 0.3s;
+}
+
+.FNAF_Button:hover {
+    width: 10.5rem;
+}
+
+.FNAF_Button_set {
+    flex: 1;
+    justify-content: center;
+    display: flex;
+}
